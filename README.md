@@ -1,2 +1,3 @@
 # AnaliseDeDados
- Análise completa de 3 bases de dados, para extrair dados de uma empresa.
+Análise completa de 3 bases de dados, para extrair dados de uma empresa
+Projeto de Análise de Dados para identificar dados financeiros de uma empresa. A fim de identificar total de gastos e lucros. Onde desafio foi avaliar as seguintes questões: valor total da folha salarial, faturamento da empresa,  a porcentagem de funcionários que já fechou algum contrato, total de contratos que cada área da empresa já fechou total de funcionários por área e o ticket médio mensal dos contratos. Os resultados obtidos foram que a empresa tem uma folha salarial de R$ 2,7 M, Faturamento de R$ 5,5 M, Ticket Médio Mensal de R$ 2,5 M.
